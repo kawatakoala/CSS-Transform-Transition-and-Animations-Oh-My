@@ -29,6 +29,11 @@ body  {
   margin: auto;
 }
 
+#middle:hover {
+  opacity: 0%;
+  transition: 1s;
+}
+
 li {
   list-style-type: none;
   margin-bottom: 1em;
